@@ -9,3 +9,6 @@ Repo for summary of papers on Large Language Models (LLMs)
 
 #### [***LLMs for Bad Content Detection: Pros and Cons***](https://dzone.com/articles/llms-for-bad-content-detection-proscons)
 - The article titled "LLMs for Bad Content Detection: Pros and Cons" discusses the methods for identifying and detecting harmful content on the Internet. It evaluates two main approaches: training supervised classifiers and using large language models (LLMs) for this purpose and provides advantages and disadvantages of either approach.
+
+#### [**What the Heck is RAG? And How to Build It**](https://samborges.hashnode.dev/what-the-heck-is-rag-and-how-to-build-it)
+- This article describes the RAG scenario in context of LLMs. It talks about how you could use a LLM to answer questions about a certain document. The author also provides a sample code snippet to build a simple RAG model using python's machine learning APIs.
